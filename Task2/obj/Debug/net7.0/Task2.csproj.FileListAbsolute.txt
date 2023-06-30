@@ -1,0 +1,5 @@
+/home/admin/workspace/C#/lesson9/homeworklesson9two/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/home/admin/workspace/C#/lesson9/homeworklesson9two/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/workspace/C#/lesson9/homeworklesson9two/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/home/admin/workspace/C#/lesson9/homeworklesson9two/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/home/admin/workspace/C#/lesson9/homeworklesson9two/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
