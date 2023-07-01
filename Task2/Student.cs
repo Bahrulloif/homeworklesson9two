@@ -1,8 +1,10 @@
 public class Student : Person
 {
     private int _numCourses;
-    private List<string> _courses;
-    private List<int> _grades;
+    private List<string> _courses=new List<string>();
+    private List<int> _grades=new List<int>();
+
+
 
     public Student(string name, string address) : base(name, address)
     {
@@ -10,6 +12,7 @@ public class Student : Person
     }
     public void AddCourseGrade(string course, int grade)
     {
+        
         _courses.Add(course);
         _grades.Add(grade);
     }

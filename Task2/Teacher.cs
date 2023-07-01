@@ -1,7 +1,7 @@
 public class Teacher : Person
 {
     private int _numCourses;
-    private List<string>? _courses;
+    private List<string>? _courses = new List<string>();
 
     public Teacher(string name, string address) : base(name, address)
     {
@@ -23,6 +23,7 @@ public class Teacher : Person
         }
         else
         {
+            _courses.Add(course);
             return true;
         }
     }
@@ -38,6 +39,7 @@ public class Teacher : Person
         }
         if (t > 0)
         {
+            _courses.Remove(course);
             return true;
         }
         else
